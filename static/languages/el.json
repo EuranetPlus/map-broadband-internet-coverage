@@ -1,12 +1,12 @@
 {
   "heading": "Ευρυζωνική κάλυψη Διαδικτύου στην ΕΕ",
-  "subheading": "",
+  "subheading": "Συνολικό ποσοστό των νοικοκυριών σε ολόκληρη την ΕΕ που έχουν ταχύτητα Διαδικτύου πάνω από 100 megabit ανά δευτερόλεπτο (Mbps)",
   "legend1": "Δεν υπάρχουν διαθέσιμα δεδομένα",
   "tooltip1": "των νοικοκυριών",
   "textSourceDescription": "Πηγή",
   "textSource": "Eurostat",
   "textNoteDescription": "Σημείωση",
-  "textNote": "",
+  "textNote": "Η Eurostat είναι η στατιστική υπηρεσία της Ευρωπαϊκής Ένωσης, υπεύθυνη για τη δημοσίευση υψηλής ποιότητας στατιστικών και δεικτών σε όλη την Ευρώπη που επιτρέπουν συγκρίσεις μεταξύ χωρών και περιφερειών.",
   "textDataAccess": "Πρόσβαση στα δεδομένα",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/isoc_cbs/default/table?lang=en",
   "textCountryClick": "Κάντε κλικ για περισσότερες πληροφορίες"

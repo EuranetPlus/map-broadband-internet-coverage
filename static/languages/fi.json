@@ -1,12 +1,12 @@
 {
   "heading": "Internet-laajakaistan kattavuus EU:ssa",
-  "subheading": "",
+  "subheading": "Niiden kotitalouksien kokonaisprosenttiosuus EU:ssa, joiden internetnopeus on yli 100 megabittiä sekunnissa (Mbps)",
   "legend1": "Tietoja ei ole saatavilla",
   "tooltip1": "kotitalouksista",
   "textSourceDescription": "Lähde",
   "textSource": "Eurostat",
   "textNoteDescription": "Merkintä",
-  "textNote": "",
+  "textNote": "Eurostat on Euroopan unionin tilastotoimisto, jonka tehtävänä on julkaista korkealaatuisia Euroopan laajuisia tilastoja ja indikaattoreita, jotka mahdollistavat maiden ja alueiden välisen vertailun.",
   "textDataAccess": "Käytä tietoja",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/isoc_cbs/default/table?lang=fi",
   "textCountryClick": "Napsauta saadaksesi lisätietoja"

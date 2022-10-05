@@ -1,12 +1,12 @@
 {
   "heading": "Kopertura tal-internet tal-broadband fl-UE",
-  "subheading": "",
+  "subheading": "Perċentwal totali ta' familji madwar l-UE li għandhom veloċità tal-internet ogħla minn 100 megabit kull sekonda (Mbps)",
   "legend1": "Ebda data disponibbli",
   "tooltip1": "tad-djar",
   "textSourceDescription": "Sors",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "",
+  "textNote": "L-Eurostat huwa l-uffiċċju tal-istatistika tal-Unjoni Ewropea, responsabbli għall-pubblikazzjoni ta' statistika u indikaturi ta' kwalità għolja madwar l-Ewropa kollha li jippermettu tqabbil bejn il-pajjiżi u r-reġjuni.",
   "textDataAccess": "Aċċessa għad-data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/isoc_cbs/default/table?lang=en",
   "textCountryClick": "Ikklikkja għal aktar informazzjoni"

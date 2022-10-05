@@ -1,12 +1,12 @@
 {
   "heading": "Bredbandstäckning i EU",
-  "subheading": "",
+  "subheading": "Den totala andelen hushåll i hela EU som har internethastigheter över 100 megabit per sekund (Mbps)",
   "legend1": "Ingen data tillgänglig",
   "tooltip1": "av hushållen",
   "textSourceDescription": "Källa",
   "textSource": "Eurostat",
   "textNoteDescription": "Notera",
-  "textNote": "",
+  "textNote": "Eurostat är Europeiska unionens statistikkontor, som ansvarar för att publicera högkvalitativ europeisk statistik och indikatorer som möjliggör jämförelser mellan länder och regioner.",
   "textDataAccess": "Få åtkomst till data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/isoc_cbs/default/table?lang=en",
   "textCountryClick": "Klicka för mer info"

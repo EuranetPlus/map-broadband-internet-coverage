@@ -1,13 +1,13 @@
 {
   "heading": "Szélessávú internet-lefedettség az EU-ban",
-  "subheading": "",
+  "subheading": "Azon háztartások teljes százalékos aránya az EU-ban, ahol az internet sebessége meghaladja a 100 megabit/s (Mbps)",
   "legend1": "Nincs elérhető adat",
   "tooltip1": "háztartások",
   "textSourceDescription": "Forrás",
   "textSource": "Eurostat",
   "textNoteDescription": "jegyzet",
-  "textNote": "",
+  "textNote": "Az Eurostat az Európai Unió statisztikai hivatala, amely az országok és régiók közötti összehasonlítást lehetővé tevő, Európa-szerte magas színvonalú statisztikák és mutatók közzétételéért felelős.",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/isoc_cbs/default/table?lang=en",
-  "textCountryClick": "Kattintson további információkért"
+  "textCountryClick": "További információért kattintson"
 }

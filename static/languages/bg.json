@@ -1,12 +1,12 @@
 {
   "heading": "Широколентово интернет покритие в ЕС",
-  "subheading": "",
+  "subheading": "Общ процент на домакинствата в ЕС, които имат интернет скорост над 100 мегабита в секунда (Mbps)",
   "legend1": "Няма данни",
   "tooltip1": "на домакинствата",
   "textSourceDescription": "Източник",
   "textSource": "Евростат",
   "textNoteDescription": "Забележка",
-  "textNote": "",
+  "textNote": "Евростат е статистическата служба на Европейския съюз, отговорна за публикуването на висококачествена статистика и показатели за цяла Европа, които позволяват сравнения между страни и региони.",
   "textDataAccess": "Достъп до данните",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/isoc_cbs/default/table?lang=en",
   "textCountryClick": "Кликнете за повече информация"

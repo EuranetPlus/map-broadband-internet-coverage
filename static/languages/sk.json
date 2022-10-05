@@ -1,12 +1,12 @@
 {
   "heading": "Pokrytie širokopásmovým internetom v EÚ",
-  "subheading": "",
+  "subheading": "Celkové percento domácností v celej EÚ s rýchlosťou internetu nad 100 megabitov za sekundu (Mbps)",
   "legend1": "Nie sú k dispozícii žiadne údaje",
   "tooltip1": "domácností",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat",
   "textNoteDescription": "Poznámka",
-  "textNote": "",
+  "textNote": "Eurostat je štatistický úrad Európskej únie zodpovedný za zverejňovanie kvalitných celoeurópskych štatistík a ukazovateľov, ktoré umožňujú porovnávanie medzi krajinami a regiónmi.",
   "textDataAccess": "Prístup k údajom",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/isoc_cbs/default/table?lang=sk",
   "textCountryClick": "Kliknite pre viac informácií"

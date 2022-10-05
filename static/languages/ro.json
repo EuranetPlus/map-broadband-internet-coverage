@@ -1,12 +1,12 @@
 {
   "heading": "Acoperirea internetului în bandă largă în UE",
-  "subheading": "",
+  "subheading": "Procentul total de gospodării din UE care au o viteză a internetului de peste 100 megabiți pe secundă (Mbps)",
   "legend1": "Nici o informatie disponibila",
   "tooltip1": "a gospodăriilor",
   "textSourceDescription": "Sursă",
   "textSource": "Eurostat",
   "textNoteDescription": "Notă",
-  "textNote": "",
+  "textNote": "Eurostat este biroul de statistică al Uniunii Europene, responsabil pentru publicarea de statistici și indicatori de înaltă calitate la nivel european, care permit comparații între țări și regiuni.",
   "textDataAccess": "Accesați datele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/isoc_cbs/default/table?lang=en",
   "textCountryClick": "Click pentru mai multe informații"

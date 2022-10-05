@@ -1,12 +1,12 @@
 {
   "heading": "Platjoslas interneta pārklājums ES",
-  "subheading": "",
+  "subheading": "To mājsaimniecību kopējā procentuālā daļa visā ES, kurās interneta ātrums pārsniedz 100 megabitus sekundē (Mb/s)",
   "legend1": "Nav pieejami dati",
   "tooltip1": "no mājsaimniecībām",
   "textSourceDescription": "Avots",
   "textSource": "Eurostat",
   "textNoteDescription": "Piezīme",
-  "textNote": "",
+  "textNote": "Eurostat ir Eiropas Savienības statistikas birojs, kas atbild par augstas kvalitātes Eiropas mēroga statistikas un rādītāju publicēšanu, kas ļauj salīdzināt valstis un reģionus.",
   "textDataAccess": "Piekļūstiet datiem",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/isoc_cbs/default/table?lang=en",
   "textCountryClick": "Noklikšķiniet, lai iegūtu vairāk informācijas"
