@@ -1,13 +1,13 @@
 {
   "heading": "Plačiajuosčio interneto aprėptis ES",
-  "subheading": "Bendra namų ūkių visoje ES, kuriuose interneto greitis didesnis nei 100 megabitų per sekundę (Mbps) procentas",
+  "subheading": "Bendras namų ūkių, kurių interneto greitis viršija 100 megabitų per sekundę (Mbps), procentas visoje ES",
   "legend1": "Nėra duomenų",
   "tooltip1": "namų ūkių",
   "textSourceDescription": "Šaltinis",
   "textSource": "Eurostatas",
   "textNoteDescription": "Pastaba",
-  "textNote": "Eurostatas yra Europos Sąjungos statistikos tarnyba, atsakinga už aukštos kokybės visos Europos statistikos ir rodiklių, leidžiančių palyginti šalis ir regionus, skelbimą.",
-  "textDataAccess": "Pasiekite duomenis",
+  "textNote": "„Eurostat“ yra Europos Sąjungos statistikos tarnyba, atsakinga už aukštos kokybės visos Europos statistikos ir rodiklių, leidžiančių palyginti šalis ir regionus, skelbimą.",
+  "textDataAccess": "Prieiga prie duomenų",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/isoc_cbs/default/table?lang=en",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
 }

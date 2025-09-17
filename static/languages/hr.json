@@ -1,13 +1,13 @@
 {
   "heading": "Pokrivenost širokopojasnim internetom u EU",
-  "subheading": "Ukupan postotak kućanstava diljem EU-a koja imaju brzinu interneta veću od 100 megabita u sekundi (Mbps)",
+  "subheading": "Ukupan postotak kućanstava diljem EU koja imaju brzinu interneta veću od 100 megabita u sekundi (Mbps)",
   "legend1": "Nema dostupnih podataka",
   "tooltip1": "kućanstava",
   "textSourceDescription": "Izvor",
   "textSource": "Eurostat",
   "textNoteDescription": "Bilješka",
-  "textNote": "Eurostat je statistički ured Europske unije, odgovoran za objavljivanje visokokvalitetnih europskih statistika i pokazatelja koji omogućuju usporedbu između zemalja i regija.",
-  "textDataAccess": "Pristupite podacima",
+  "textNote": "Eurostat je statistički ured Europske unije, odgovoran za objavljivanje visokokvalitetnih statistika i pokazatelja na razini cijele Europe koji omogućuju usporedbe između zemalja i regija.",
+  "textDataAccess": "Pristup podacima",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/isoc_cbs/default/table?lang=en",
   "textCountryClick": "Kliknite za više informacija"
 }

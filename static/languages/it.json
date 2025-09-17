@@ -1,5 +1,5 @@
 {
-  "heading": "Copertura Internet a banda larga nell'UE",
+  "heading": "Copertura internet a banda larga nell'UE",
   "subheading": "Percentuale totale di famiglie nell'UE con velocità Internet superiore a 100 megabit al secondo (Mbps)",
   "legend1": "Nessun dato disponibile",
   "tooltip1": "delle famiglie",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Nota",
   "textNote": "Eurostat è l'ufficio statistico dell'Unione europea, responsabile della pubblicazione di statistiche e indicatori di alta qualità a livello europeo che consentono confronti tra paesi e regioni.",
   "textDataAccess": "Accedi ai dati",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/isoc_cbs/default/table?lang=en",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/isoc_cbs/default/table?lang=it",
   "textCountryClick": "Clicca per maggiori informazioni"
 }

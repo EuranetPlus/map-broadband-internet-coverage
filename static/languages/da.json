@@ -1,13 +1,13 @@
 {
   "heading": "Bredbåndsinternetdækning i EU",
-  "subheading": "Samlet procentdel af husstande i hele EU, der har internethastighed over 100 megabit pr. sekund (Mbps)",
-  "legend1": "Ingen tilgængelig data",
+  "subheading": "Samlet procentdel af husstande i EU, der har en internethastighed på over 100 megabit pr. sekund (Mbps)",
+  "legend1": "Ingen data tilgængelige",
   "tooltip1": "af husstande",
   "textSourceDescription": "Kilde",
   "textSource": "Eurostat",
-  "textNoteDescription": "Bemærk",
-  "textNote": "Eurostat er Den Europæiske Unions statistiske kontor, ansvarlig for at offentliggøre europæiske statistikker og indikatorer af høj kvalitet, der muliggør sammenligninger mellem lande og regioner.",
-  "textDataAccess": "Få adgang til data",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/isoc_cbs/default/table?lang=da",
-  "textCountryClick": "Klik for mere info"
+  "textNoteDescription": "Note",
+  "textNote": "Eurostat er Den Europæiske Unions statistiske kontor, der er ansvarlig for at offentliggøre europæisk dækkende statistikker og indikatorer af høj kvalitet, der muliggør sammenligninger mellem lande og regioner.",
+  "textDataAccess": "Få adgang til dataene",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/isoc_cbs/default/table?lang=en",
+  "textCountryClick": "Klik for mere information"
 }

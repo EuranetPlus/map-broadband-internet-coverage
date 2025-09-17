@@ -1,13 +1,13 @@
 {
-  "heading": "Breitbandinternetabdeckung in der EU",
-  "subheading": "Gesamtprozentsatz der Haushalte in der EU mit einer Internetgeschwindigkeit von über 100 Megabit pro Sekunde (Mbit/s)",
+  "heading": "Breitband-Internetabdeckung in der EU",
+  "subheading": "Gesamtprozentsatz der Haushalte in der EU, die über eine Internetgeschwindigkeit von über 100 Megabit pro Sekunde (Mbps) verfügen",
   "legend1": "Keine Daten verfügbar",
-  "tooltip1": "von Haushalten",
+  "tooltip1": "der Haushalte",
   "textSourceDescription": "Quelle",
   "textSource": "Eurostat",
   "textNoteDescription": "Notiz",
-  "textNote": "Eurostat ist das statistische Amt der Europäischen Union und verantwortlich für die Veröffentlichung qualitativ hochwertiger europaweiter Statistiken und Indikatoren, die Vergleiche zwischen Ländern und Regionen ermöglichen.",
-  "textDataAccess": "Greifen Sie auf die Daten zu",
+  "textNote": "Eurostat ist das statistische Amt der Europäischen Union und verantwortlich für die Veröffentlichung hochwertiger europaweiter Statistiken und Indikatoren, die Vergleiche zwischen Ländern und Regionen ermöglichen.",
+  "textDataAccess": "Zugriff auf die Daten",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/isoc_cbs/default/table?lang=en",
-  "textCountryClick": "Klicken Sie für weitere Informationen"
+  "textCountryClick": "Klicken Sie hier für weitere Informationen"
 }

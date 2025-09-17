@@ -1,12 +1,12 @@
 {
   "heading": "Couverture Internet haut débit dans l'UE",
-  "subheading": "Pourcentage total de foyers dans l'UE disposant d'un débit Internet supérieur à 100 mégabits par seconde (Mbps)",
-  "legend1": "Pas de données disponibles",
+  "subheading": "Pourcentage total de ménages dans l'UE disposant d'une vitesse Internet supérieure à 100 mégabits par seconde (Mbps)",
+  "legend1": "Aucune donnée disponible",
   "tooltip1": "des ménages",
-  "textSourceDescription": "La source",
+  "textSourceDescription": "Source",
   "textSource": "Eurostat",
-  "textNoteDescription": "Noter",
-  "textNote": "Eurostat est l'office statistique de l'Union européenne, responsable de la publication de statistiques et d'indicateurs européens de haute qualité permettant des comparaisons entre pays et régions.",
+  "textNoteDescription": "Note",
+  "textNote": "Eurostat est l'office statistique de l'Union européenne, chargé de publier des statistiques et des indicateurs de haute qualité à l'échelle européenne qui permettent des comparaisons entre les pays et les régions.",
   "textDataAccess": "Accéder aux données",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/isoc_cbs/default/table?lang=fr",
   "textCountryClick": "Cliquez pour plus d'informations"

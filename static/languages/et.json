@@ -1,12 +1,12 @@
 {
-  "heading": "Interneti lairiba leviala ELis",
-  "subheading": "Nende leibkondade protsent kogu ELis, kus Interneti-kiirus on üle 100 megabiti sekundis (Mbps)",
-  "legend1": "Andmed puuduvad",
+  "heading": "Lairibaühenduse leviala ELis",
+  "subheading": "Nende leibkondade koguprotsent kogu ELis, kelle internetiühenduse kiirus on üle 100 megabiti sekundis (Mbps)",
+  "legend1": "Andmed pole saadaval",
   "tooltip1": "leibkondadest",
   "textSourceDescription": "Allikas",
   "textSource": "Eurostat",
-  "textNoteDescription": "Märge",
-  "textNote": "Eurostat on Euroopa Liidu statistikaamet, mis vastutab kvaliteetse üleeuroopalise statistika ja näitajate avaldamise eest, mis võimaldavad riikide ja piirkondade vahelist võrdlust.",
+  "textNoteDescription": "Märkus",
+  "textNote": "Eurostat on Euroopa Liidu statistikaamet, mis avaldab kvaliteetset üleeuroopalist statistikat ja näitajaid, mis võimaldavad riikide ja piirkondade vahelist võrdlust.",
   "textDataAccess": "Juurdepääs andmetele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/isoc_cbs/default/table?lang=en",
   "textCountryClick": "Lisateabe saamiseks klõpsake"

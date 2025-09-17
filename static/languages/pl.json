@@ -1,13 +1,13 @@
 {
-  "heading": "Zasięg Internetu szerokopasmowego w UE",
-  "subheading": "Całkowity odsetek gospodarstw domowych w UE, które mają prędkość internetu powyżej 100 megabitów na sekundę (Mb/s)",
+  "heading": "Zasięg szerokopasmowego internetu w UE",
+  "subheading": "Całkowity odsetek gospodarstw domowych w UE, w których prędkość Internetu przekracza 100 megabitów na sekundę (Mb/s)",
   "legend1": "Brak dostępnych danych",
   "tooltip1": "gospodarstw domowych",
   "textSourceDescription": "Źródło",
   "textSource": "Eurostat",
   "textNoteDescription": "Notatka",
-  "textNote": "Eurostat jest urzędem statystycznym Unii Europejskiej odpowiedzialnym za publikowanie wysokiej jakości ogólnoeuropejskich statystyk i wskaźników umożliwiających porównywanie krajów i regionów.",
-  "textDataAccess": "Uzyskaj dostęp do danych",
+  "textNote": "Eurostat to urząd statystyczny Unii Europejskiej odpowiedzialny za publikację wysokiej jakości statystyk i wskaźników obejmujących całą Europę, które umożliwiają porównywanie krajów i regionów.",
+  "textDataAccess": "Dostęp do danych",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/isoc_cbs/default/table?lang=en",
   "textCountryClick": "Kliknij, aby uzyskać więcej informacji"
 }

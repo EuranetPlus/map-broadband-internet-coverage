@@ -1,13 +1,13 @@
 {
   "heading": "Breedbandinternetdekking in de EU",
-  "subheading": "Totaal percentage huishoudens in de EU met een internetsnelheid van meer dan 100 megabit per seconde (Mbps)",
+  "subheading": "Totaalpercentage huishoudens in de EU met een internetsnelheid van meer dan 100 megabit per seconde (Mbps)",
   "legend1": "Geen gegevens beschikbaar",
   "tooltip1": "van huishoudens",
   "textSourceDescription": "Bron",
   "textSource": "Eurostat",
   "textNoteDescription": "Opmerking",
-  "textNote": "Eurostat is het bureau voor de statistiek van de Europese Unie dat verantwoordelijk is voor het publiceren van hoogwaardige statistieken en indicatoren in heel Europa die vergelijkingen tussen landen en regio's mogelijk maken.",
+  "textNote": "Eurostat is het statistische bureau van de Europese Unie. Het is verantwoordelijk voor het publiceren van hoogwaardige statistieken en indicatoren op Europees niveau, die vergelijkingen tussen landen en regio's mogelijk maken.",
   "textDataAccess": "Toegang tot de gegevens",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/isoc_cbs/default/table?lang=en",
-  "textCountryClick": "Klik voor meer info"
+  "textCountryClick": "Klik voor meer informatie"
 }
